@@ -1,4 +1,7 @@
-### App Report
+### IMPORTANT
+This project did not make use of DI, Clean architecture, MVI & other recommended solutions,
+to align well with the project requirements. Changes should be made to better structure the code
+& architecture
 
 ## Summary of Functionalities
 
@@ -97,22 +100,6 @@ album_detail_screen: Displays album details.
 home_screen: The app’s main screen.
 and etc.
 
-
-# Pair Contributions
-
-Zakariya:
-Search screen.
-Playlist screen list/add/remove.
-Playlist detail screen with song information.
-Track detail screen add to favorites.
-Navigation, robust configuration changes.
-
-Yariyeva:
-Album detail screen.
-Track detail screen (almost done).
-Quiz add questions screen.
-Quiz game screen.
-Quiz list/remove/preview.
 
 
 # How to Run the App
